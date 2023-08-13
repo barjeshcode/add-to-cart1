@@ -1,0 +1,48 @@
+span.error {
+  color: red;
+}
+.login-button {
+  background: #fff;
+  padding: 8px;
+  margin-left: 43px;
+  width: 90%;
+  text-align: center;
+  border-radius: 4px;
+  position: relative;
+}
+.login-form {
+  position: absolute;
+  z-index: 1;
+}
+.login-form {
+  position: absolute;
+  z-index: 1;
+  background: #fff;
+  padding: 20px;
+  width: 400px;
+  margin-top: 11px;
+  border-radius: 10px;
+  box-shadow: 0px -1px 13px 0px rgba(0,0,0,0.75);
+}
+.heading-of-stund h1 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.form12-start input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+}
+.submit-here button {
+  background: red;
+  padding: 4px; 
+  width: 40%;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 17px;
+  margin: 10px 0px 10px 0px;
+}

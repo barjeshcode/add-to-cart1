@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Banner-Header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.75);
+    margin: 7px;
+  }
+  .Banner-Header p {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+  }
+  .Banner img {
+    width: 52%;
+  }
